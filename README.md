@@ -2,3 +2,9 @@
 
 Live Demo:
 https://alazhar-herbal-store.netlify.app/
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Netlify
